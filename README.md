@@ -7,4 +7,6 @@ $ cd WanderTypingGame
 $ mkdir build && cd build
 $ cmake ..
 $ make
+$ cd src/test
+$ ./opengl_test
 ```
