@@ -12,9 +12,9 @@ $ ./opengl_test
 ```
 
 ## Windows10
-push the 'windows key', and type 'cmd'. Aafter that, you can see the comand prompt is up.
+Push the 'windows key', and type 'cmd'. Aafter that, you can see the comand prompt is up.
 Then, type these commands below.
-#### Attention!!
+#### Attention!!:
 You need MinGW to build this project!!
 So, please install MinGW before cmake if you haven't install it yet.
 
