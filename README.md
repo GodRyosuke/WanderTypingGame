@@ -10,3 +10,9 @@ $ make
 $ cd src/test
 $ ./opengl_test
 ```
+
+## Windows10
+
+# Links for References
+
+https://www.youtube.com/watch?v=Nzp77cOMmfg
